@@ -1,2 +1,3 @@
-# MLOps-Pract-1
-week 1 of Reproductibility and Model Deployment
+# MLOps Practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Claudia Yanez
