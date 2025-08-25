@@ -7,3 +7,7 @@ Updated Locally
 ## Edited on GitHub Web
 
 testing conflicts
+
+## About Me
+Hi, I’m Claudia.
+I’m learning how to use GitHub Issues.
